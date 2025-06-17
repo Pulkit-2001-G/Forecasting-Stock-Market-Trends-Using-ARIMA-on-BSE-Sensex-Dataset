@@ -8,6 +8,7 @@ This project presents a comprehensive analysis of the BSE Sensex index using adv
 3. Interpretation of coefficients and statistical significance
 4. Real-world return forecasts expressed in percentage change terms
 5. Discussion of challenges such as non-normal residuals and volatility clustering
+
 ⚠️ Although short-term forecast accuracy remains constrained due to high market volatility, this analysis demonstrates iterative learning in model selection, evaluation, and interpretation of financial time series data.
 
 🔧 Key Techniques Used: 
