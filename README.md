@@ -3,7 +3,7 @@
 📈 Time Series Forecasting on BSE Sensex Using ARIMA Models
 This project presents a comprehensive analysis of the BSE Sensex index using advanced time series modeling techniques, including ARIMA and SARIMAX. Building on a prior study that focused on foundational steps like data cleaning, stationarity testing (ADF), and differencing, this extended analysis incorporates:
 
-1. Enhanced model specification with ARIMA(2,0,2) and SARIMAX frameworks
+1. Enhanced model specification with ARIMA(2,0,2)
 2. Detailed model diagnostics (AIC/BIC, residual analysis, heteroskedasticity, normality tests)
 3. Interpretation of coefficients and statistical significance
 4. Real-world return forecasts expressed in percentage change terms
@@ -20,7 +20,9 @@ This project presents a comprehensive analysis of the BSE Sensex index using adv
 6. Cumulative return to price transformation
 
 📌 Lessons & Insights:
-1.Financial time series often violate key ARIMA assumptions (e.g., homoskedasticity, normality)
-2.Importance of robust diagnostics before interpreting forecasts
-3.Value of continuous model refinement and iteration
 
+1.Financial time series often violate key ARIMA assumptions (e.g., homoskedasticity, normality)
+
+2.Importance of robust diagnostics before interpreting forecasts
+
+3.Value of continuous model refinement and iteration
